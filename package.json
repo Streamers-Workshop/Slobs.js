@@ -1,0 +1,47 @@
+{
+  "name": "slobs.js",
+  "version": "1.0.0",
+  "description": "An easy solution to access Streamlabs OBS (SLOBS) websocket connections.",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Streamers-Workshop/Slobs.js.git"
+  },
+  "keywords": [],
+  "author": {
+    "name": "Krammy",
+    "email": "krammy_ie@outlook.com",
+    "url": "https://github.com/Streamers-Workshop/"
+  },
+  "contributors": [
+    {
+      "name": "Bioblaze Payne",
+      "email": "bioblazepayne@gmail.com",
+      "url": "https://github.com/Bioblaze"
+    },
+    {
+      "name": "Bulllox",
+      "email": "bullloxstreaming@web.de",
+      "url": "https://github.com/bulllox"
+    },
+    {
+      "name": "Rehkloos",
+      "email": "contact@rehkloos.com",
+      "url": "https://github.com/rehkloos"
+    }
+  ],
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Streamers-Workshop/Slobs.js/issues"
+  },
+  "homepage": "https://github.com/Streamers-Workshop/Slobs.js#readme",
+  "dependencies": {
+    "sockjs-client": "^1.4.0"
+  },
+  "devDependencies": {
+    "jsdoc-to-markdown": "^6.0.1"
+  }
+}
